@@ -1,0 +1,14 @@
+{
+    "name": "mariane/mensageiro",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mariane Souza"
+        }
+    ],
+    "require": {}
+}

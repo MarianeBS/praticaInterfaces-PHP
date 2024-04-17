@@ -1,0 +1,14 @@
+{
+    "name": "mariane/personagemrpg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mariane Souza"
+        }
+    ],
+    "require": {}
+}
